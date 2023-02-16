@@ -1,5 +1,5 @@
 # TigerNote
-This repository contains the files that make up TigerNote, a program designed to help students become more organized in a classroom setting. 
+This repository contains the files that make up **TigerNote**, a program designed to help students become more organized in a classroom setting. 
 Its features contain notetaking capabilities, file downloading/uploading, a pomodoro timer, and a fully customizable calendar 
 with the abilities to create/delete events.
 
