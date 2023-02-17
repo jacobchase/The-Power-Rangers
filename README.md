@@ -13,5 +13,5 @@ Eduardo Espinosa<br>
 Andrew Goforth<br>
 Souleymane Diallo<br>
 
-The deployment of TigerNote can be found below:<br>
+The deployment of TigerNote can be found here:<br>
 https://jacobchase.github.io/TigerNote/
